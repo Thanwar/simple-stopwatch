@@ -1,0 +1,38 @@
+body
+{
+    text-align: center;
+    margin: 0;
+}
+
+
+#stopwatch
+{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+
+#digits h1
+{
+    display: inline-block;
+    padding: 90px 0;
+    font-size: 50px;
+}
+
+
+#digits
+{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    margin: auto;
+}
+
+
+button
+{
+    font-size: large;
+    padding: 5px 10px;
+    margin: 100px 5px 20px 5px;
+}
